@@ -1,0 +1,79 @@
+route_no,vehicle_no,route,capacity
+1,AU2877,Cheyyar-(Via)-Kancheepuram Walajabath-Oragadam-Padapai-Mannivakkam-Vandalore-Kandigai,50
+1A,AU2787,Vandhavasi-(Via)-Kancheepuram Walajabath-Oragadam-Padapai-Mannivakkam-Vandalore-Kandigai-Kolabakkam-Mambakkam,50
+1E,AU3768,Kancheepuram (Via)-Walajabath-Oragadam-Padapai-Mannivakkam-Vandalore-Kandigai-Kolabakkam-Mambakkam-Kelambakkam,50
+2,AQ7449,Marakanam-(Via)-Kovathur-Kathankadai-Veppancherry-Kalpakkam Indranagar-Vengambakkam-Poonjeri Toll Gate-Thiruporur-Kelambakkam,50
+2A,AQ9627,Melmaruvathur-(Via)-MadhuranthakamMaamandur-Patalam-Chengalpattu-ThiruporurKoot Road-Thiruvadisoolam-Mullibakkam-Karumbakkam,50
+2B,AF2697,Uthiramerur-(Via)-Bhukkathurai-Chengalpet Bye pass-Chengalpet bus stand-Raatina Kinaru-Thiruporur Koot Road,50
+2F,AD6774,Chengalpet-(via)-Paranur-S.P.Kovil-M.M. Nagar-SRM-Guduvancherry-Urapakkam-Vandalore-Kandigai-Mambakkam-Kelambakkam,50
+2H,AD7737,Chengalpet-(via)-Paranur-S.P.Kovil-M.M. Nagar-SRM-Guduvancherry-Urapakkam-Kilambakkam-Vandalore-Kandigai-Mambakkam,50
+3,BX7773,Kannivakkam-(Via)-Kaayarmedu-Guduvancherry-Urapakkam-Vandalore-Kilambakkam-Kandigai-Mambakkam-Kelambakkam,50
+3A,BW1212,Urapakkam-(via)-Vandalore-Kolabakkam-Mela kottaiyur-Keela kottaiyur-Mambakkam-Pudubakkam-Kelambakkam,50
+4C,AM6027,Thirukazhukundram-(via)-Mahabalipuram-Deveneri-Therkupattu-Thiruvidanthai-Pattipulam-Vadanemmeli-Perur-Kovalam,50
+4D,AM6171,Kothimangalam-(Via)-Eachur-Mamallapuram-Devaneri-Therkupattu-Kovalam-Kelambakkam-Padur,50
+4G,AU3867,Kalpakkam-(via)-Kalpakkam Ladies Hostel-Satras Gate-Anupuram Poonjeri Toll gate-Thiruporur,50
+5,AD8979,Maanapathy-(Via)-Ambur-Thiruporur Rountana-Kalavakkam-Vijaya Shanthi Apartments Kelambakkam-Padur-Navalur,50
+5A,AK9177,Thiruporur-(via)-Kalavakkam-Vijaya Shanthi Apartments Kelambakkam-Padur-Navalur,50
+5C,AS8376,Kelambakkam-(via)-Padur-Kazhipattur-Navalur-Ags-Semmencherry Alamaram,50
+6,AQ9537,Thalankuppam-(Via)-Ennore-Ernavur-Vimco Nagar-Thiruvotriyur-Theradi-Toll gate-Tondiarpet-Kasimedu-Kalmandabam-Royapuram-Parrys corner-Light house,50
+6A,AK9717,Vimco Nagar-(Via)-Thiruvotriyur-Theradi-Tondiarpet-Kalra Hospital-Kasimedu-Kalmandabam-Royapuram-Light house-Santhome-Pattinambakkam-ECR,50
+6C,AF1779,Tondiarpet Toll gate-(Via)-Appollo-Tondiarpet metro-Manikoondu-Maharani post office-Singapore shopping-Cement road-Royapuram,50
+6H,AT6090,Mint bharath theatre-(Via)-Pencil factory-Mint Metro-Stanli-Bharathi Arts college-Broadway theatre-Mannadi metro-High court-Light house-ECR,50
+7A,AU3759,Maathur-(Via)-Madhavaram Post Office-Moolakadai-Sharma Nagar-Vyasarpadi-Walltax Road-Central-Anna Square-Vivekanandar illam-Santhome Pattinambakkam,50
+7C,AU3237,Madhavaram-(Via)-M.R Nagar-M.K.B Nagar-EB-Vyasarpadi-Basin bridge-Nehru Stadium-Central-Pattinambakkam-Santhome-Adyar-Thiruvanmiyur-V.G.P-ECR,50
+8,AF1788,Valluvarkottam-(via)-Semmozhi Poonga-Stella Marrys College-Luz Corner-Mylapore-Mandaveli-Sathya Studio-Adyar-Thiruvanmaiyur-V.G.P-ECR,50
+8C,AK6477,Ameer Mahal-(via)-Russian Emforce-Ajantha-Royapetah-Santhome-Pattinambakkam-Sathya studio-Adyar-ECR,50
+8E,AQ9474,Egmore-(Via)-Chintharipet-Triplecane--Annapoonra-Ice house-Vivekanandar Illam-Light House-Santhome-Pattinambakkam-Adyar-Thiruvanmiyur-Palavakkam-ECR,50
+9,Z4110,Besant Nagar-(via)-Vannathurai-Thiruvanmiyur-Palavakkam-V.G.P,50
+9A,AZ6099,Adyar Telephone Exchange-(Via)-Thiruvanmiyur-Kottivakkam-V.G.P,50
+9C,AA8070,Thiruvanmiyur-(via)-Palavakkam-Neelankarai-Kottivakkam-V.G.P-ECR,50
+10,AQ7278,Thiruvallur-(via)-Manavalan Nagar-Poonamallee-Kumananchavadi-Ayyapanthangal-Ramavaram-Butt Road-Guindy-Velacherry Bye Pass,50
+10D,AF2571,Poonamallee-(via)-Ayyapanthangal-Karayanchavadi-Porur Signal-Mugalivakkam-Ramavaram-Butt Road-Guindy-Velacherry bye pass-Chennai one,50
+10E,AD7278,Porur Bai kadai-(Via)-Porur signal-Mugalivakkam-Ramavaram-Butt Road-Guindy-Velacherry bye pass-Vijaya Nagar-Tansi Nagar-Baby Nagar-Taramani,50
+11,AF2274,Veppampattu-(Via)-Thirunindravur-Pattabiram-Avadi-Ambattur-Padi-Koyambedu,50
+11A,AP9177,Thirunindravur-(via)-Pattabiram-Avadi check post-Paruthipattu-Sennarikuppam-Vanagaram-Maduravoyul-Nerkundram,50
+11B,AU3579,Avadi-(via)-Avadi Murugappa Polytechnic Thirumullaivoyal-Ambattur O.T-Ambattur-Padi-Koyambedu-MMDA-Vadapalani,50
+11E,AF1797,Mugapair East-(Via)-MMM Hospital-Thirumangalam-Koyambedu-MMDA-Vadapalani-Ashok Nagar-Ekkatuthangal,50
+11F,AQ7197,Sennarikuppam-(Via)-ACS College-Vanagaram-Vellappanchavadi-Maduravoyul-Nerkundram-Koyambedu-Vadapalani,50
+11H,AQ7359,Ayapakkam-(Via)-Mugapair West-J.J Nagar Police Station-Collector Nagar-Thirumangalam-Koyambedu-Vadapalani-Ekattuthangal-Alandur metro,50
+11(I),AQ7476,Muthapudupet-(via)-Ambattur O.T-Vavin-Collector Nagar-Thirumangalam-Koyambedu-Vadapalani-Alandur Metro,50
+11J,AF2679,Senthil Nagar-(Via)-Thathankuppam-K 4 Police Station-Chinthamani-Kilpauk garden-Kilpauk Ega theatre-Chetpet-Gemini-Kalaignar TV Teynampet-SIET-Kotturpuram,50
+12,A2112,Red Hills-(via)-Puzhal-Camp-Rettari-Jamalaya-Binny mills-Otteri-Egmore-Spencer-Gemini-DMS-Teynampet,50
+12A,AU3273,Rettari-(Via)-Kolathur-Periyar Nagar-Paravalur-Anna Statue-Perambur-Binny mills-Otteri,50
+12C,AU2976,Moolakadai-Perambur Railway Station-Perambur Bus Stand-Aaduthotti-G3 Police Station-Purasaivakkam-Egmore,50
+12D,AU3075,Rettari-(Via)-Kolathur-Jamalaya-G3 Police station-Puliyanthoppu-Veppery-Central-Spencer plaza-DMS-Teynampet-Kotturpuram,50
+13,AU3372,Villivakkam-(via)-Nadamuni Theatre-ICF-Ayanavaram-Kilpauk Hospital-Noor Hotel-Kellys-Purasaivakkan-Egmore-Ethiraj College-Spencer-Gemeni Bridge-,50
+13B,AQ7377,Villivakkam-(via)-Nadamuni Theatre-ICF-Ayanavaram-Noor Hotel-Kellys-Purasaivakkam-Egmore-Greams road,50
+14A,AU3417,Kodambakkam Power House-(via)-B.B.C-Kodambakkam Meenakshi College-T.Nagar Bus Stand-CIT Nagar-Saidapet-Little mount-IIT,50
+14B,BW1212,Saidapet-(Via)-Little mount-Velacherry Bye pass-Vijayanagar-Baby nagar-Taramani-Perungudi-PTC-Karapakkam,50
+15A,AU2967,Chinmaya Nagar-(via)-Virugambakkam-Avichi School-Pondicherry guest house-K.K.Nagar-Meetupalayam-Seenuvasa Theatre-Kannamapettai-CIT Nagar-Saidapet,50
+15B,AS3219,Saligramam-(via)-AVM Signal-West Mambalam-Brindavanam Street--Duraisamy Sub Way-Panagal Park-Venkatnarayana Road-Nandanam Signal,50
+15C,AQ9762,7th Avenue Sangam Hotel-(via)-Blue Tank-Ekkatuthangal-GRT-Vijaya Nagar-Baby Nagar-Tansi Nagar-Taramani-Perungudi-Jain College,50
+16A,AF2337,Manali-(via)-Madhavaram Rountana-Senthil nagar-Blue Star-Anna Nagar Rountana-Shanthi Colony-Anna Arch-Choolaimedu-Metha Nagar-Loyala College,50
+16D,AK6576,Korattur-(via)-TVS-Lucas-Anna Nagar West Depo-Blue Star-Shanthi Colony-Metha Nagar-Choolaimedu-Loyala College-Nungambakkam-Gemini-DMS,50
+17A,AK7179,Porur-(via)-Karampakkam-Lakshmi Nagar-Valasaravakkam-Kesavarthini-Alwarthiru Nagar--Guindy-Velacherry Bye Pass,50
+17B,AF1878,K.K.Nagar-(via)-Pondicherry Guest House-Udayam-Kasi-Guindy-Velacherry Bye Pass-Velacherry Railway station-Thoraipakkam,50
+18,AQ9177,Mangadu-(via)-Kundrathur-Anakapudur-Pammal-Pallavaram-Vels college-S.Kolathur-Kamakshi Hospital-Chennai one,50
+18B,AD6675,Nandhambakkam-(Via)-Kundrathur-Pammal-Pallavaram-Chrompet-Sanitorium-Tambaram-West Depot-Camproad-Kamarajapuram,50
+18C,AK7476,Pallavaram Vels college-(Via)-Echankadu signal-S.kolthur-Kamakshi Hospital-Chennai One-Thoraipakkam-PTC-Karapakkam,50
+18D,BX8385,Meenambakkam-(Via)-Pallavaram-Chrompet-Sanitorium-Tambaram-West Depot-Camproad-Mahalakshmi Nagar-Santhoshpuram,50
+19B,A1617,Sriperambathur-(via)-Puspagiri-Manimangalam-Mudichur-Tambaram-Camproad,50
+19C,AK6738,Mudichur-(Via)-Old Perungulathore-Bharathi Nagar-Tambaram-Selaiyur-Camproad-Mahalakshmi Nagar-Sembakkam-,50
+20A,AZ6189,Hasthinapuram-(Via)-Chitlapakkam-Selaiyur Police Station-Camproad-Mahalakshmi Nagar-Rajakilpakkam,50
+21B,BX8088,Vandalore-(Via)-Perungulathore-Irumpuliyur-Tambaram-Selaiyur-Camproad-Kamarajapuram,50
+22A,Z4200,Kamakshi Hospital-(Via)-Balaji Dental College-Narayanapuram-Pallikaranai-Medavakkam-Perumbakkam-,50
+22B,AK9789,Kamakshi Hospital-(Via)-Balaji Dental College-Narayanapuram-Pallikaranai-Medavakkam-Perumbakkam-Global-HCL,50
+23A,BZ2040,Axis Bank-(via)-Madipakkam Ponniyamman temple-Balaya Gardan-Sadasivam Nagar-Kaiveli-Chennai One,50
+25,AM6072,Keelkattalai-(Via)-Echankadu Signal-Ross Nagar-Nun Mangalam-Mothersa textiles-Vellakal-Kovilambakkam-MedavakkamKoot Road,50
+26,AU3174,Movarasanpet kolam-(Via)-J.K.Mahal-Nanganallur park-Poorvika-Vanuvampettai church-Velacherry Railway Station-Kaiveli-Chennai One,50
+27B,AM7476,SSM Nagar-(Via)-Mappedu-Agaramthen-ALS Nagar-Kozhi pannai-kovilancherry erikarai-Sithalabakkam,50
+28A,AS7935,Rajakilpakkam-(via)-Sudarsan Nagar-Maruthi Nagar-Kozhi Pannai-Madambakkam sivan temple-Vengaivasal-IM Gear Company-New Prince College,50
+29,BX8700,Medavakkam Koot Road-(Via)-Veerapathira Nagar-Sowmiyanagar-Sithalabakkam Koot Road-Sithalabakkam-Ottiyambakkam-Kaaranai-DLF,50
+30,BZ2112,N.G.O Colony-(via)-Brindavan Nagar-Velacherry Railway Station-Kaiveli Signal-Thuraipakkam-PTC-Karapakkam,50
+32,BZ2400,Velacherry Gurunanak college-(Via)-GRT-Vijaya Nagar-Baby Nagar-Tansi Nagar-Taramani-Perungudi-Jain College-Mettukuppam,50
+35,Z4011,Pudubakkam-(via)-Siruseri-Thalambur-Navalur-AGS-Semmencherry Alamaram,50
+35A,BZ2535,Ponmar-(via)-Thalambur-Navalur-AGS-Semmencherry Alamaram,50
+36,AA7998,Sipcot Signal-(Via)-Marina mall-Navalur-AGS-SemmencherryAlamaram,50
+36A,AA7710,Dinesh Vihar Apartment-(Via)-DLF Garden City Apartment-Nest Apartment-Kumaran Nagar Petrol,50
+36B,CY6171,Perumbakkam Church-(Via)-Noorkampalayam road-Bollini Apartment-Nest Apartment,50
+37,AC5055,Uthandi Toll gate-(Via)-Panaiyur-Akkarai-Sholinganallur-Ponniyamman temple,50
